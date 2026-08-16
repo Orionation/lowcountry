@@ -1,0 +1,62 @@
+[
+ {
+  "n": "01",
+  "title": "Charleston Brunch",
+  "src": "audio/01.mp3",
+  "dur": "2:05"
+ },
+ {
+  "n": "02",
+  "title": "Happy Hour",
+  "src": "audio/02.mp3",
+  "dur": "2:15"
+ },
+ {
+  "n": "03",
+  "title": "Downtown Streets",
+  "src": "audio/03.mp3",
+  "dur": "1:57"
+ },
+ {
+  "n": "04",
+  "title": "Dorchester Road",
+  "src": "audio/04.mp3",
+  "dur": "1:57"
+ },
+ {
+  "n": "05",
+  "title": "Shrimp And Grits (And BBQ Too)",
+  "src": "audio/05.mp3",
+  "dur": "1:57"
+ },
+ {
+  "n": "06",
+  "title": "Easy Life",
+  "src": "audio/06.mp3",
+  "dur": "1:57"
+ },
+ {
+  "n": "07",
+  "title": "Mind The Locals",
+  "src": "audio/07.mp3",
+  "dur": "1:57"
+ },
+ {
+  "n": "08",
+  "title": "Boat Party",
+  "src": "audio/08.mp3",
+  "dur": "1:58"
+ },
+ {
+  "n": "09",
+  "title": "Redfish",
+  "src": "audio/09.mp3",
+  "dur": "1:57"
+ },
+ {
+  "n": "10",
+  "title": "Shem Creek Dreaming",
+  "src": "audio/10.mp3",
+  "dur": "1:57"
+ }
+]

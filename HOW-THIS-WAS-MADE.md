@@ -14,7 +14,7 @@ published free on GitHub Pages.
 
 **Listen:** https://orionation.github.io/lowcountry/
 **Artist name:** Orion & The Holy City Band (placeholder)
-**Runtime:** 33:02, 16 tracks
+**Runtime:** 33:02, 15 tracks
 
 ---
 
@@ -79,7 +79,7 @@ Gotchas learned the hard way:
 - **Inpainting** — regenerate one section of an existing track, keep the rest. The real fix for
   "great melody, one bad line." We re-rolled whole songs instead and lost melodies Jonathan liked.
 - **Audio reference** — ~30s clip guides style/production/tempo, not melody.
-- **Finetunes** — train a personalized model on tracks you own. 16 tracks may be enough.
+- **Finetunes** — train a personalized model on tracks you own. 15 tracks may be enough.
 
 ---
 
@@ -158,7 +158,7 @@ Jonathan's ear is good and specific. These are his corrections, generalized:
 
 ## 8. Album facts
 
-16 tracks, 33:02: Charleston Brunch / Happy Hour / Downtown Streets / Dorchester Road /
+15 tracks, 33:02: Charleston Brunch / Happy Hour / Downtown Streets /
 Shrimp And Grits (And BBQ Too) / Easy Life / Mind The Locals / Capers Island / Boat Party /
 Intracoastal / Mermaids And Dolphins / Caroline / Fishing With My Love / Redfish /
 Waitin' On The Sun / Shem Creek Dreaming.
